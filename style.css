@@ -1,0 +1,37 @@
+*{
+
+margin: 0;
+padding: 0;
+}
+
+#divisinha{
+   
+   background-color:  #ebebeb;
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: center;   
+    padding: 50px;
+}
+
+.lojinha{
+    display: flex;
+    padding-top: 10%;
+    border: solid #ff2a00 3px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    background-color: #ebebeb;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+
+.marca{
+    background-color: #ebebeb;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
