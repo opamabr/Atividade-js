@@ -64,7 +64,7 @@ inicio = () => {
     <div class="lojinha">
     <img src="`+val.url_img+`"height=200px width=200px/> 
     <p>`+val.nome+`</p>
-    <p>dimdim: R$ `+val.dimdim+`</p>
+    <p>Valor: R$ `+val.Valor+`</p>
     <p>descrição:</p>
     <p>`+val.descricao+`</p>
 
